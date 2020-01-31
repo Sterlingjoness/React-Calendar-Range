@@ -1,3 +1,8 @@
+### To install run
+npm install React-Calendar-Range
+
+### *This project works in every browser except for Internet Explorer due to not supporting arrow functions
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
