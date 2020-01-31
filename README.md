@@ -2,6 +2,11 @@
 
 ### *This project works in every browser except for Internet Explorer due to not supporting arrow functions
 
+## To run this project use
+npm install
+### followed by
+npm start
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
