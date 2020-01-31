@@ -4,8 +4,10 @@
 
 ## To run this project use
 npm install
-### followed by
+## Followed by
 npm start
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
