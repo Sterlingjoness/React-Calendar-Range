@@ -1,5 +1,5 @@
 ### To install run
-npm install React-Calendar-Range
+npm install react-calendar-range
 
 ### *This project works in every browser except for Internet Explorer due to not supporting arrow functions
 
