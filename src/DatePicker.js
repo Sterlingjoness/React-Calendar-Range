@@ -54,6 +54,7 @@ class Date extends React.Component {
                     <DateRangePicker
                         value={this.state.value}
                         onSelect={this.onSelect}
+                        minimumDate={Date.now()}
                         singleDateRange={true}
                     />
                 )}
